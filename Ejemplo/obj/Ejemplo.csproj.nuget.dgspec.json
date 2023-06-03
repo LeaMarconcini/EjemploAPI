@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Esc y Docs Lea\\6° Año\\ejemploApi\\Ejemplo\\Ejemplo.csproj": {}
+    "C:\\Users\\Usuario\\Desktop\\6to 1ra\\ejemploApi\\Ejemplo\\Ejemplo.csproj": {}
   },
   "projects": {
-    "D:\\Esc y Docs Lea\\6° Año\\ejemploApi\\Ejemplo\\Ejemplo.csproj": {
+    "C:\\Users\\Usuario\\Desktop\\6to 1ra\\ejemploApi\\ejemploApi.Data\\ejemploApi.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Esc y Docs Lea\\6° Año\\ejemploApi\\Ejemplo\\Ejemplo.csproj",
-        "projectName": "Ejemplo",
-        "projectPath": "D:\\Esc y Docs Lea\\6° Año\\ejemploApi\\Ejemplo\\Ejemplo.csproj",
-        "packagesPath": "C:\\Users\\Marconcini\\.nuget\\packages\\",
-        "outputPath": "D:\\Esc y Docs Lea\\6° Año\\ejemploApi\\Ejemplo\\obj\\",
+        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\6to 1ra\\ejemploApi\\ejemploApi.Data\\ejemploApi.Data.csproj",
+        "projectName": "ejemploApi.Data",
+        "projectPath": "C:\\Users\\Usuario\\Desktop\\6to 1ra\\ejemploApi\\ejemploApi.Data\\ejemploApi.Data.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario\\Desktop\\6to 1ra\\ejemploApi\\ejemploApi.Data\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Marconcini\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +25,78 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Usuario\\Desktop\\6to 1ra\\ejemploApi\\ejemploApi.Model\\ejemploApi.Model.csproj": {
+                "projectPath": "C:\\Users\\Usuario\\Desktop\\6to 1ra\\ejemploApi\\ejemploApi.Model\\ejemploApi.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.33, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Usuario\\Desktop\\6to 1ra\\ejemploApi\\ejemploApi.Model\\ejemploApi.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\6to 1ra\\ejemploApi\\ejemploApi.Model\\ejemploApi.Model.csproj",
+        "projectName": "ejemploApi.Model",
+        "projectPath": "C:\\Users\\Usuario\\Desktop\\6to 1ra\\ejemploApi\\ejemploApi.Model\\ejemploApi.Model.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario\\Desktop\\6to 1ra\\ejemploApi\\ejemploApi.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -41,6 +115,86 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.33, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Usuario\\Desktop\\6to 1ra\\ejemploApi\\Ejemplo\\Ejemplo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\6to 1ra\\ejemploApi\\Ejemplo\\Ejemplo.csproj",
+        "projectName": "Ejemplo",
+        "projectPath": "C:\\Users\\Usuario\\Desktop\\6to 1ra\\ejemploApi\\Ejemplo\\Ejemplo.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario\\Desktop\\6to 1ra\\ejemploApi\\Ejemplo\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Usuario\\Desktop\\6to 1ra\\ejemploApi\\ejemploApi.Data\\ejemploApi.Data.csproj": {
+                "projectPath": "C:\\Users\\Usuario\\Desktop\\6to 1ra\\ejemploApi\\ejemploApi.Data\\ejemploApi.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.33, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.2.3, )"
@@ -65,7 +219,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }

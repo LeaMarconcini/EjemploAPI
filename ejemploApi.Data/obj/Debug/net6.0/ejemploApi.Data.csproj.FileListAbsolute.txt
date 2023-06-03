@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\6to 1ra\ejemploApi\ejemploApi.Data\obj\Debug\net6.0\ejemploApi.Data.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\6to 1ra\ejemploApi\ejemploApi.Data\obj\Debug\net6.0\ejemploApi.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\6to 1ra\ejemploApi\ejemploApi.Data\obj\Debug\net6.0\ejemploApi.Data.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\6to 1ra\ejemploApi\ejemploApi.Data\obj\Debug\net6.0\ejemploApi.Data.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\6to 1ra\ejemploApi\ejemploApi.Data\obj\Debug\net6.0\ejemploApi.Data.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\6to 1ra\ejemploApi\ejemploApi.Data\bin\Debug\net6.0\ejemploApi.Data.deps.json
+C:\Users\Usuario\Desktop\6to 1ra\ejemploApi\ejemploApi.Data\bin\Debug\net6.0\ejemploApi.Data.dll
+C:\Users\Usuario\Desktop\6to 1ra\ejemploApi\ejemploApi.Data\bin\Debug\net6.0\ejemploApi.Data.pdb
+C:\Users\Usuario\Desktop\6to 1ra\ejemploApi\ejemploApi.Data\bin\Debug\net6.0\ejemploApi.Model.dll
+C:\Users\Usuario\Desktop\6to 1ra\ejemploApi\ejemploApi.Data\bin\Debug\net6.0\ejemploApi.Model.pdb
+C:\Users\Usuario\Desktop\6to 1ra\ejemploApi\ejemploApi.Data\obj\Debug\net6.0\ejemploApi.Data.csproj.CopyComplete
+C:\Users\Usuario\Desktop\6to 1ra\ejemploApi\ejemploApi.Data\obj\Debug\net6.0\ejemploApi.Data.dll
+C:\Users\Usuario\Desktop\6to 1ra\ejemploApi\ejemploApi.Data\obj\Debug\net6.0\refint\ejemploApi.Data.dll
+C:\Users\Usuario\Desktop\6to 1ra\ejemploApi\ejemploApi.Data\obj\Debug\net6.0\ejemploApi.Data.pdb
+C:\Users\Usuario\Desktop\6to 1ra\ejemploApi\ejemploApi.Data\obj\Debug\net6.0\ref\ejemploApi.Data.dll
