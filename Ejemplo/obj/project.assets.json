@@ -1995,23 +1995,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Usuario\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Marconcini\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\6to 1ra\\ejemploApi\\Ejemplo\\Ejemplo.csproj",
+      "projectUniqueName": "D:\\Esc y Docs Lea\\6° Año\\ejemploApi\\Ejemplo\\Ejemplo.csproj",
       "projectName": "Ejemplo",
-      "projectPath": "C:\\Users\\Usuario\\Desktop\\6to 1ra\\ejemploApi\\Ejemplo\\Ejemplo.csproj",
-      "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\Desktop\\6to 1ra\\ejemploApi\\Ejemplo\\obj\\",
+      "projectPath": "D:\\Esc y Docs Lea\\6° Año\\ejemploApi\\Ejemplo\\Ejemplo.csproj",
+      "packagesPath": "C:\\Users\\Marconcini\\.nuget\\packages\\",
+      "outputPath": "D:\\Esc y Docs Lea\\6° Año\\ejemploApi\\Ejemplo\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Marconcini\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2019,14 +2015,15 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Usuario\\Desktop\\6to 1ra\\ejemploApi\\ejemploApi.Data\\ejemploApi.Data.csproj": {
-              "projectPath": "C:\\Users\\Usuario\\Desktop\\6to 1ra\\ejemploApi\\ejemploApi.Data\\ejemploApi.Data.csproj"
+            "D:\\Esc y Docs Lea\\6° Año\\ejemploApi\\ejemploApi.Data\\ejemploApi.Data.csproj": {
+              "projectPath": "D:\\Esc y Docs Lea\\6° Año\\ejemploApi\\ejemploApi.Data\\ejemploApi.Data.csproj"
             }
           }
         }
@@ -2073,7 +2070,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }

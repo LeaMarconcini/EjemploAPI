@@ -11,9 +11,9 @@ namespace ejemploApi.Model
     {
 
         public int id { get; set; }
-        public int make { get; set; }
-        public int model { get; set; }
-        public int color{ get; set; }
+        public string make { get; set; }
+        public string model { get; set; }
+        public string color{ get; set; }
         public int years { get; set; }
         public int doors { get; set; }
     }

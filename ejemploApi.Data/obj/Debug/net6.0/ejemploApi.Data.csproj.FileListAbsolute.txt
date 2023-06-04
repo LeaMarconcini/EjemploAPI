@@ -13,3 +13,18 @@ C:\Users\Usuario\Desktop\6to 1ra\ejemploApi\ejemploApi.Data\obj\Debug\net6.0\eje
 C:\Users\Usuario\Desktop\6to 1ra\ejemploApi\ejemploApi.Data\obj\Debug\net6.0\refint\ejemploApi.Data.dll
 C:\Users\Usuario\Desktop\6to 1ra\ejemploApi\ejemploApi.Data\obj\Debug\net6.0\ejemploApi.Data.pdb
 C:\Users\Usuario\Desktop\6to 1ra\ejemploApi\ejemploApi.Data\obj\Debug\net6.0\ref\ejemploApi.Data.dll
+D:\Esc y Docs Lea\6° Año\ejemploApi\ejemploApi.Data\bin\Debug\net6.0\ejemploApi.Data.deps.json
+D:\Esc y Docs Lea\6° Año\ejemploApi\ejemploApi.Data\bin\Debug\net6.0\ejemploApi.Data.dll
+D:\Esc y Docs Lea\6° Año\ejemploApi\ejemploApi.Data\bin\Debug\net6.0\ejemploApi.Data.pdb
+D:\Esc y Docs Lea\6° Año\ejemploApi\ejemploApi.Data\bin\Debug\net6.0\ejemploApi.Model.dll
+D:\Esc y Docs Lea\6° Año\ejemploApi\ejemploApi.Data\bin\Debug\net6.0\ejemploApi.Model.pdb
+D:\Esc y Docs Lea\6° Año\ejemploApi\ejemploApi.Data\obj\Debug\net6.0\ejemploApi.Data.csproj.AssemblyReference.cache
+D:\Esc y Docs Lea\6° Año\ejemploApi\ejemploApi.Data\obj\Debug\net6.0\ejemploApi.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Esc y Docs Lea\6° Año\ejemploApi\ejemploApi.Data\obj\Debug\net6.0\ejemploApi.Data.AssemblyInfoInputs.cache
+D:\Esc y Docs Lea\6° Año\ejemploApi\ejemploApi.Data\obj\Debug\net6.0\ejemploApi.Data.AssemblyInfo.cs
+D:\Esc y Docs Lea\6° Año\ejemploApi\ejemploApi.Data\obj\Debug\net6.0\ejemploApi.Data.csproj.CoreCompileInputs.cache
+D:\Esc y Docs Lea\6° Año\ejemploApi\ejemploApi.Data\obj\Debug\net6.0\ejemploApi.Data.csproj.CopyComplete
+D:\Esc y Docs Lea\6° Año\ejemploApi\ejemploApi.Data\obj\Debug\net6.0\ejemploApi.Data.dll
+D:\Esc y Docs Lea\6° Año\ejemploApi\ejemploApi.Data\obj\Debug\net6.0\refint\ejemploApi.Data.dll
+D:\Esc y Docs Lea\6° Año\ejemploApi\ejemploApi.Data\obj\Debug\net6.0\ejemploApi.Data.pdb
+D:\Esc y Docs Lea\6° Año\ejemploApi\ejemploApi.Data\obj\Debug\net6.0\ref\ejemploApi.Data.dll

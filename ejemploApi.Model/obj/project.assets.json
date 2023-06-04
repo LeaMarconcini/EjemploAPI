@@ -1742,23 +1742,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Usuario\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Marconcini\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\6to 1ra\\ejemploApi\\ejemploApi.Model\\ejemploApi.Model.csproj",
+      "projectUniqueName": "D:\\Esc y Docs Lea\\6° Año\\ejemploApi\\ejemploApi.Model\\ejemploApi.Model.csproj",
       "projectName": "ejemploApi.Model",
-      "projectPath": "C:\\Users\\Usuario\\Desktop\\6to 1ra\\ejemploApi\\ejemploApi.Model\\ejemploApi.Model.csproj",
-      "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\Desktop\\6to 1ra\\ejemploApi\\ejemploApi.Model\\obj\\",
+      "projectPath": "D:\\Esc y Docs Lea\\6° Año\\ejemploApi\\ejemploApi.Model\\ejemploApi.Model.csproj",
+      "packagesPath": "C:\\Users\\Marconcini\\.nuget\\packages\\",
+      "outputPath": "D:\\Esc y Docs Lea\\6° Año\\ejemploApi\\ejemploApi.Model\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Marconcini\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1809,7 +1805,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }

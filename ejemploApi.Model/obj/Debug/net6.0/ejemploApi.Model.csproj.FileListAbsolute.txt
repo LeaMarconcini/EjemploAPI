@@ -10,3 +10,15 @@ C:\Users\Usuario\Desktop\6to 1ra\ejemploApi\ejemploApi.Model\obj\Debug\net6.0\ej
 C:\Users\Usuario\Desktop\6to 1ra\ejemploApi\ejemploApi.Model\obj\Debug\net6.0\refint\ejemploApi.Model.dll
 C:\Users\Usuario\Desktop\6to 1ra\ejemploApi\ejemploApi.Model\obj\Debug\net6.0\ejemploApi.Model.pdb
 C:\Users\Usuario\Desktop\6to 1ra\ejemploApi\ejemploApi.Model\obj\Debug\net6.0\ref\ejemploApi.Model.dll
+D:\Esc y Docs Lea\6° Año\ejemploApi\ejemploApi.Model\bin\Debug\net6.0\ejemploApi.Model.deps.json
+D:\Esc y Docs Lea\6° Año\ejemploApi\ejemploApi.Model\bin\Debug\net6.0\ejemploApi.Model.dll
+D:\Esc y Docs Lea\6° Año\ejemploApi\ejemploApi.Model\bin\Debug\net6.0\ejemploApi.Model.pdb
+D:\Esc y Docs Lea\6° Año\ejemploApi\ejemploApi.Model\obj\Debug\net6.0\ejemploApi.Model.csproj.AssemblyReference.cache
+D:\Esc y Docs Lea\6° Año\ejemploApi\ejemploApi.Model\obj\Debug\net6.0\ejemploApi.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\Esc y Docs Lea\6° Año\ejemploApi\ejemploApi.Model\obj\Debug\net6.0\ejemploApi.Model.AssemblyInfoInputs.cache
+D:\Esc y Docs Lea\6° Año\ejemploApi\ejemploApi.Model\obj\Debug\net6.0\ejemploApi.Model.AssemblyInfo.cs
+D:\Esc y Docs Lea\6° Año\ejemploApi\ejemploApi.Model\obj\Debug\net6.0\ejemploApi.Model.csproj.CoreCompileInputs.cache
+D:\Esc y Docs Lea\6° Año\ejemploApi\ejemploApi.Model\obj\Debug\net6.0\ejemploApi.Model.dll
+D:\Esc y Docs Lea\6° Año\ejemploApi\ejemploApi.Model\obj\Debug\net6.0\refint\ejemploApi.Model.dll
+D:\Esc y Docs Lea\6° Año\ejemploApi\ejemploApi.Model\obj\Debug\net6.0\ejemploApi.Model.pdb
+D:\Esc y Docs Lea\6° Año\ejemploApi\ejemploApi.Model\obj\Debug\net6.0\ref\ejemploApi.Model.dll
