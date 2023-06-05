@@ -53,7 +53,7 @@ namespace ejemploApi.Data.Repositorios
         {
             var db = dbConnection();
             var sql = @"INSERT INTO cars (make, model, color, years, doors)
-                        values (@make, @model, @color, @years, @doors";
+                        values (@make, @model, @color, @years, @doors)";
 
             var result = await db.ExecuteAsync(sql, new 
             { car.make, car.model, car.color, car.years, car.doors });
